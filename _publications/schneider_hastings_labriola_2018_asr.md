@@ -7,8 +7,6 @@ excerpt: 'Abstract: Historic increases in income inequality have coincided with 
 date: 2018-June
 venue: 'American Sociological Review'
 paperurl: ''
-citation: ''
 ---
-Daniel Schneider, Orestes P. Hastings, and Joe LaBriola
 
 Data and replication files (in STATA) for figures and tables in the paper and supplement can be found [here](https://www.dropbox.com/sh/e79e37s97d01dnp/AABniskIQhQp0KgvnYBenQ2Oa?dl=0).
