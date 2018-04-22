@@ -1,18 +1,28 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Joe LaBriola:
+  name        : "Joe LaBriola"
+  uri         : "https://joelabriola.github.io"
+  email       : 
+  bio         : 
+  avatar      : 
+  twitter     : 
+  google_plus : 
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Daniel Schneider:
+  name        : "Daniel Schneider"
+  uri         : "https://shift.berkeley.edu"
+  email       : 
+  bio         : 
+  avatar      : 
+  twitter     : 
+  google_plus : 
+  
+Orestes P. Hastings:
+  name        : "Orestes P. Hastings"
+  uri         : "https://ophastings.com"
+  email       : 
+  bio         : 
+  avatar      : 
+  twitter     : 
+  google_plus : 
