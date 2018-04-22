@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Joe LaBriola, Doctoral student in Sociology at UC Berkeley"
+title: "Joe LaBriola, PhD student in Sociology, UC Berkeley"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
