@@ -57,3 +57,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+You can download a copy of my CV [here](https://github.com/joelabriola/joelabriola.github.io/blob/master/files/LaBriola_cv_20180420.pdf).
