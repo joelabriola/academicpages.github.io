@@ -7,6 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a PhD student in sociology at the University of California, Berkeley. My research interests center around how changing social, economic, and demographic conditions in the United States have led to increased inequalities at work and at home. In a paper co-authored with Daniel Schneider and Orestes P. Hastings (forthcoming in _American Sociological Review_), we document the role of increased income inequality in explaining increased class gaps in parental investments in children, and investigate the mechanisms that underlie this relationship. I am also currently working on two other projects in this area: one which decomposes the increases in class gaps in total parental childcare time (as opposed to maternal or paternal childcare time) into its various sources, and another which tests how the effect of economic conditions on within-job volatility in weekly working hours varies by class.
+
+I have also published on the determinants of risk-taking at large commercial banks in the United States (forthcoming in _Social Science Quarterly_), and, in my previous job at the Federal Reserve Board, worked on a paper estimating the gains from international cooperation in setting monetary policy.
+
+---
+
 academicpages is a ready-to-fork GitHub Pages template for academic personal websites
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
