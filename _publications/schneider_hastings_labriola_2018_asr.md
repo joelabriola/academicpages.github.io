@@ -1,5 +1,5 @@
 ---
-title: "Income Inequality and Class Divides in Parental Investments"
+title: "Income Inequality and Class Divides in Parental Investments (with Daniel Schneider and Orestes P. Hastings)"
 author: Daniel Schneider, Orestes P. Hastings, Joe LaBriola
 collection: publications
 permalink: /publication/schneider_hastings_labriola_2018_asr
