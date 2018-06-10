@@ -8,4 +8,6 @@ date: 2018-June
 venue: 'American Sociological Review'
 ---
 
-Data and replication files (in STATA) for figures and tables in the paper and supplement can be found [here](https://www.dropbox.com/sh/e79e37s97d01dnp/AABniskIQhQp0KgvnYBenQ2Oa?dl=0).
+Here is a [link](http://journals.sagepub.com/eprint/jn7n8iH98Gua7KIdEeWk/full) to the article on the journal website, and here is a [link](https://osf.io/preprints/socarxiv/7gjdc/) to an ungated version on SocArXiv. Data and replication files (in STATA) for figures and tables in the paper and supplement can be found [here](https://www.dropbox.com/sh/e79e37s97d01dnp/AABniskIQhQp0KgvnYBenQ2Oa?dl=0).
+
+This article has been covered by press at [U.S. News](https://www.usnews.com/news/education-news/articles/2018-05-28/income-inequality-exacerbates-the-achievement-gap), the [American Sociological Association](http://www.asanet.org/news-events/asa-news/income-inequality-changing-how-parents-invest-their-kids-widening-class-divides-us), the [Russell Sage Foundation](http://www.russellsage.org/news/income-inequality-and-class-divides-parental-investments), the [Coloradan](https://www.coloradoan.com/story/news/2018/05/31/colorado-state-university-research-shows-education-spending-gap/661289002/), [EducationDive](https://www.educationdive.com/news/income-inequality-drives-summer-slide-even-among-youngest-students/524639/), and at [Colorado State University](https://libarts.source.colostate.edu/study-gap-between-what-the-rich-and-poor-spend-on-their-kids-is-widening/).
