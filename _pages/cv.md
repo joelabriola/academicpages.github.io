@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a copy of my CV [here](https://joelabriola.github.io/files/LaBriola_cv_20180525.pdf).
+You can download a copy of my CV [here](https://joelabriola.github.io/files/LaBriola_cv_20180719.pdf).
