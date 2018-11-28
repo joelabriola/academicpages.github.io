@@ -16,4 +16,4 @@ date: 2018-04-20
 venue: 'Social Science Quarterly'
 ---
 
-Paper has been accepted; will post online link when available.
+Here is a [link](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12560) to the article on the journal website. Data and replication files (in STATA) used to create the figures and tables in the paper and appendix can be found [here](https://www.dropbox.com/sh/yga0omnf3udkstg/AACFZGAmbZcBr4QzeP5VdsVAa?dl=0)
