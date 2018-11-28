@@ -16,4 +16,4 @@ date: 2018-04-20
 venue: 'Social Science Quarterly'
 ---
 
-Here is a [link](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12560) to the article on the journal website; if you can't access the article there, here is an [ungated version](https://joelabriola.github.io/files/LaBriola_SSQ_risky_business.pdf) and here is the [appendix](https://joelabriola.github.io/files/LaBriola_SSQ_risky_business_appendix.docx). Data and replication files (in STATA) used to create the figures and tables in the paper and appendix can be found [here](https://www.dropbox.com/sh/yga0omnf3udkstg/AACFZGAmbZcBr4QzeP5VdsVAa?dl=0)
+Here is a [link](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12560) to the article on the journal website; if you can't access the article there, here is an [ungated version](https://joelabriola.github.io/files/LaBriola_SSQ_risky_business.pdf) and here is the [appendix](https://joelabriola.github.io/files/LaBriola_SSQ_risky_business_appendix.docx). Data and replication files (in STATA) used to create the figures and tables in the paper and appendix can be found [here](https://www.dropbox.com/sh/yga0omnf3udkstg/AACFZGAmbZcBr4QzeP5VdsVAa?dl=0).
